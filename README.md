@@ -11,7 +11,7 @@
 dacon_2th_CV_dirtymnist_5th_place_Ensembled.ipynb 파일을 Google Drive에 저장하신 후 Colab 환경에서 실행하시면 됩니다.  
 
 
-## DIRTY MNIST Data 간단한 EDA 수행  
+## DIRTY MNIST Data, EDA  
 ![image](https://user-images.githubusercontent.com/48322490/122669878-353ab080-d1fa-11eb-8bc3-3f59eadd2b82.png)
   
 1. 이미지에 노이즈가 많이 끼어 있음  
