@@ -1,11 +1,11 @@
-# dacon_2th_cv_train_competition
+## dacon_2th_cv_train_competition
 
 제 2회 컴퓨터 비전 학습 경진대회 5등 수상  
 
-개요   
-```
+#개요   
+
 이미지 속에 들어있는 알파벳과 들어있지 않은 알파벳을 분류하는 multi-label classification Task
-```
+
 
 원시적인 EDA 수행  
 ![image](https://user-images.githubusercontent.com/48322490/122669878-353ab080-d1fa-11eb-8bc3-3f59eadd2b82.png)
