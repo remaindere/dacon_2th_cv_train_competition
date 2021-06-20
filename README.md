@@ -15,18 +15,18 @@
 데이터의 수 충분  
 알파벳의 분포 균일  
   
-## 모델 
+## 모델  
   
-ResNext, Densenet, Mobilenet, Efficientnet 등의 모델 실험 진행
-최종 모델 제출시 EfficientNet B7(pretrained) 사용
-activation 함수 Swish(SiLU) 사용
-Multilabel Classification이므로, 최종 Activation에 Sigmoid 가 적용됨 
-Probability가 0.5 이상일시 해당 class가 존재한다고 추론 
+ResNext, Densenet, Mobilenet, Efficientnet 등의 모델 실험 진행  
+최종 모델 제출시 EfficientNet B7(pretrained) 사용  
+activation 함수 Swish(SiLU) 사용  
+Multilabel Classification이므로, 최종 Activation에 Sigmoid 가 적용됨   
+Probability가 0.5 이상일시 해당 class가 존재한다고 추론   
 
 ## Augmentation  
   
 Tensorvision을 이용한 다양한 Augmentation 실험 (Flip, Rotation, GaussianNoise, RandomAffine etc..)  
-RandomRotation을 제외하면 모두 성능 저하를 보임 
+RandomRotation을 제외하면 모두 성능 저하를 보임  
 
 ## Train  
   
