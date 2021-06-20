@@ -1,8 +1,8 @@
-## dacon_2th_cv_train_competition
+# dacon_2th_cv_train_competition
 
 제 2회 컴퓨터 비전 학습 경진대회 5등 수상  
 
-#개요   
+# 개요   
 
 이미지 속에 들어있는 알파벳과 들어있지 않은 알파벳을 분류하는 multi-label classification Task
 
