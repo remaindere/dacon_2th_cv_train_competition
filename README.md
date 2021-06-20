@@ -40,7 +40,7 @@ lr_scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size = 5, gamma =
 optimizer = torch.optim.Adam(model.parameters(), lr = 0.001) 
 kfold = KFold(n_splits=5, shuffle=True, random_state=42) 
 ```
-개발 환경은 Colab 이었으며, 한 계정에 3개 정도의 세션을 사용하여 각 폴드를 동시에 학습시켜 시간을 크게 절감할수 있었음  
+개발 환경 Colab 사용, 한 계정에 3개 정도의 세션을 사용하여 각 폴드를 동시에 학습시켜 시간을 크게 절감할수 있었음  
   
 ## Inference  
   
