@@ -63,9 +63,9 @@ DACON 측에 최종 제출할 때 DockerFile 첨부하여 제출
 
 
 ## Contributors
-:floppy_disk:[송광원(remaindere)](https://github.com/remaindere) | :spades:[허재섭(shjas94)](https://github.com/shjas94)
+:floppy_disk:**[송광원(remaindere)](https://github.com/remaindere)** | :spades:**[허재섭(shjas94)](https://github.com/shjas94)**
 
 ## reference
-[dacon baseline codes](https://dacon.io/competitions/official/235697/codeshare/2353?dtype=recent)  
-[efficient-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch)  
+**[dacon baseline codes](https://dacon.io/competitions/official/235697/codeshare/2353?dtype=recent)**  
+**[efficient-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch)**  
    
