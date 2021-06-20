@@ -10,10 +10,10 @@
 ## DIRTY MNIST Data 간단한 EDA 수행  
 ![image](https://user-images.githubusercontent.com/48322490/122669878-353ab080-d1fa-11eb-8bc3-3f59eadd2b82.png)
   
-이미지에 노이즈가 많이 끼어 있음  
-"노이즈" 같은 다른 글자가 이미지에 있음  
-데이터의 수 충분  
-알파벳의 분포 균일  
+1. 이미지에 노이즈가 많이 끼어 있음  
+2. "노이즈" 같은 다른 글자가 이미지에 있음  
+3. 데이터의 수 충분  
+4. 알파벳의 분포 균일  
   
 ## 모델  
   
@@ -47,7 +47,11 @@ DACON측에 최종 제출할 때 Docker Container 첨부하여 제출
 
 ### data는 DACON측 저작권 관련 이유로 첨부하지 않았습니다!
 
-reference :
-[dacon baseline codes] (https://dacon.io/competitions/official/235697/codeshare/2353?dtype=recent)  
-[efficient-pytorch] (https://github.com/lukemelas/EfficientNet-PyTorch)
+## Contributors
+
+:floppy_disk:[송광원(remaindere)](https://github.com/remaindere) | :spades:[허재섭(shjas94)](https://github.com/shjas94)
+
+## reference
+[dacon baseline codes](https://dacon.io/competitions/official/235697/codeshare/2353?dtype=recent)  
+[efficient-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch)
    
